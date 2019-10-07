@@ -26,6 +26,7 @@ public class SeleniumTest {
 			        //Launch the Online Store Website
 			 
 			        driver.get("http://www.store.demoqa.com");
+			        System.out.println("DemoSite Opened");
 			 
 			        // Find the element that's ID attribute is 'account'(My Account) 
 			 
